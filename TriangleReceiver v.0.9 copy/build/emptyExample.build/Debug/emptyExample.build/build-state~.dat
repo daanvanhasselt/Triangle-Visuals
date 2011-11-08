@@ -1,0 +1,370 @@
+TemptyExample
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin/emptyExampleDebug.app/Contents/Info.plist" openFrameworks-Info.plist
+cProcessPCH++ /var/folders/jn/jnkj5JtPF-Ca-odvXV5MS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cggezspcfyeijxcqkluvluxouqnb/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c000000004DEEB9110000000000043820
+t1307490577
+s276512
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004DB8539B0000000002B5C7A0
+t1303925659
+s45467552
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004A12050E0000000000022140
+t1242694926
+s139584
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004DD5EC60000000000051BA20
+t1305865312
+s5356064
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004DF9CD1C000000000000A5F0
+t1308216604
+s42480
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004B4834EA00000000000005FF
+t1263023338
+s1535
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004DEEB6D200000000002181A0
+t1307490002
+s2195872
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004DBF2B880000000000781330
+t1304374152
+s7869232
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004C23F49F0000000000021710
+t1277424799
+s136976
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004DE8236E000000000017B260
+t1307059054
+s1552992
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004DEEB8140000000000043360
+t1307490324
+s275296
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004DE5A33C0000000000785970
+t1306895164
+s7887216
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../addons/ofxOsc/libs/oscpack/lib/osx/osc.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../addons/ofxOsc/src/ofxOsc.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../addons/ofxOsc/src/ofxOscBundle.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../addons/ofxOsc/src/ofxOscMessage.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../addons/ofxOsc/src/ofxOscReceiver.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../addons/ofxOsc/src/ofxOscSender.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../libs/glut/lib/osx/GLUT.framework
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../libs/glut/lib/osx/GLUT.framework/GLUT
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin/emptyExampleDebug.app
+t1320158101
+s102
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin/emptyExampleDebug.app/Contents/Frameworks/GLUT.framework
+t1320158103
+s204
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin/emptyExampleDebug.app/Contents/Info.plist
+t1320149385
+s1002
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin/emptyExampleDebug.app/Contents/MacOS/emptyExampleDebug
+t1320157721
+s4820356
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin/emptyExampleDebug.app/Contents/PkgInfo
+t1320149385
+s8
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin/openFrameworksDebug.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/TriangleReceiver.o
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/emptyExampleDebug.LinkFileList
+c000000004EB1517800000000000003DC
+t1320243576
+s988
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/ofxOscBundle.o
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/ofxOscMessage.o
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/ofxOscReceiver.o
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/ofxOscSender.o
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o
+t2
+s0
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c000000004EB151780000000000000114
+t1320243576
+s276
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.cpp
+c000000004EB0024A0000000000000A35
+t1320157770
+s2613
+i"TriangleReceiver.h"
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h
+c000000004EAFE1CA00000000000002AD
+t1320149450
+s685
+i"ofMain.h"
+i"ofxOsc.h"
+i<list>
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp
+c000000004E13404C000000000000019E
+t1309884492
+s414
+i"ofMain.h"
+i"testApp.h"
+i"ofAppGlutWindow.h"
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp
+c000000004EB0008100000000000005D0
+t1320157313
+s1488
+i"testApp.h"
+
+N/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h
+c000000004EAFF45D000000000000023C
+t1320154205
+s572
+i"ofMain.h"
+i"TriangleReceiver.h"
+
+N/var/folders/jn/jnkj5JtPF-Ca-odvXV5MS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cggezspcfyeijxcqkluvluxouqnb/Carbon.h.gch
+t2
+s0
+
+NopenFrameworks-Info.plist
+c000000004E26C9240000000000000277
+t1311164708
+s631
+
+CBuild AST from "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../addons/ofxOsc/src/ofxOscBundle.cpp"
+r0
+
+CBuild AST from "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../addons/ofxOsc/src/ofxOscMessage.cpp"
+r0
+
+CBuild AST from "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../addons/ofxOsc/src/ofxOscReceiver.cpp"
+r0
+
+CBuild AST from "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../addons/ofxOsc/src/ofxOscSender.cpp"
+r0
+
+CBuild AST from "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.cpp"
+r0
+
+CBuild AST from "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp"
+r0
+
+CBuild AST from "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp"
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdac9b4f88861b441^e140c8f88861b441^-127"[WARN]Project.xcconfig line 5: Unable to find included file "../../../libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig"2(21%IDEActivityLogMessage2@77"Missing dependency target "openFrameworks (from openFrameworksLib.xcodeproj)"-341936376#18446744073709551615#0#-1#-----2@120"Project.xcconfig line 5: Unable to find included file "../../../libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig"-341936376#18446744073709551615#0#-1#-----0#1#0#--18"Check dependencies
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/TriangleReceiver.o "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+s341936379.508853
+e341936379.767659
+r0
+xCompileC
+xbuild/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o
+x/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:1:20: error: ofMain.h: No such file or directory
+oIn file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:4,
+o                 from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:2:
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:12:20: error: ofxOsc.h: No such file or directory
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:3:29: error: ofAppGlutWindow.h: No such file or directory
+oIn file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:4,
+o                 from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:2:
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:17: error: 'ofPoint' does not name a type
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:18: error: 'ofPoint' does not name a type
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:19: error: 'ofPoint' does not name a type
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:35: error: ISO C++ forbids declaration of 'list' with no type
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:35: error: expected ';' before '<' token
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:38: error: 'ofxOscReceiver' does not name a type
+oIn file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:2:
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:6: error: expected class-name before '{' token
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:20: error: 'ofDragInfo' has not been declared
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:21: error: 'ofMessage' has not been declared
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp: In function 'int main()':
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:8: error: 'ofAppGlutWindow' was not declared in this scope
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:8: error: expected `;' before 'window'
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:9: error: 'window' was not declared in this scope
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:9: error: 'OF_WINDOW' was not declared in this scope
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:9: error: 'ofSetupOpenGL' was not declared in this scope
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:14: error: 'ofRunApp' was not declared in this scope
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp865782fb8861b441^30bad0fb8861b441^-2791"/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:1:20: error: ofMain.h: No such file or directoryIn file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:4,                 from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:2:/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:12:20: error: ofxOsc.h: No such file or directory/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:3:29: error: ofAppGlutWindow.h: No such file or directoryIn file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:4,                 from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:2:/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:17: error: 'ofPoint' does not name a type/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:18: error: 'ofPoint' does not name a type/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:19: error: 'ofPoint' does not name a type/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:35: error: ISO C++ forbids declaration of 'list' with no type/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:35: error: expected ';' before '<' token/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:38: error: 'ofxOscReceiver' does not name a typeIn file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:2:/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:6: error: expected class-name before '{' token/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:20: error: 'ofDragInfo' has not been declared/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:21: error: 'ofMessage' has not been declared/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp: In function 'int main()':/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:8: error: 'ofAppGlutWindow' was not declared in this scope/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:8: error: expected `;' before 'window'/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:9: error: 'window' was not declared in this scope/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:9: error: 'OF_WINDOW' was not declared in this scope/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:9: error: 'ofSetupOpenGL' was not declared in this scope/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp:14: error: 'ofRunApp' was not declared in this scope18(21%IDEActivityLogMessage2@35"OfMain.h: No such file or directory-341936379#0#119#-2#-23%DVTTextDocumentLocation3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@35"OfxOsc.h: No such file or directory-341936379#310#130#3(36%IDEActivityLogHeaderInclusionMessage4@91"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp-341936379#18446744073709551615#0#-0#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---4@92"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-3@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2@118"OfxOsc.h: No such file or directory in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h-341936379#18446744073709551615#0#-0#-3@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^11#18446744073709551615#11#18446744073709551615#18446744073709551615#0#---2#-3@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^11#18446744073709551615#11#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@44"OfAppGlutWindow.h: No such file or directory-341936379#440#128#-2#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@30"'ofPoint' does not name a type-341936379#759#122#3(4@91"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp-341936379#18446744073709551615#0#-0#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---4@92"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-3@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2@113"'ofPoint' does not name a type in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h-341936379#18446744073709551615#0#-0#-3@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^16#18446744073709551615#16#18446744073709551615#18446744073709551615#0#---2#-3@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^16#18446744073709551615#16#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@30"'ofPoint' does not name a type-341936379#881#122#3(4@91"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp-341936379#18446744073709551615#0#-0#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---4@92"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-3@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2@113"'ofPoint' does not name a type in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h-341936379#18446744073709551615#0#-0#-3@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^17#18446744073709551615#17#18446744073709551615#18446744073709551615#0#---2#-3@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^17#18446744073709551615#17#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@30"'ofPoint' does not name a type-341936379#1003#122#3(4@91"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp-341936379#18446744073709551615#0#-0#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---4@92"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-3@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2@113"'ofPoint' does not name a type in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h-341936379#18446744073709551615#0#-0#-3@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^18#18446744073709551615#18#18446744073709551615#18446744073709551615#0#---2#-3@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^18#18446744073709551615#18#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@50"ISO C++ forbids declaration of 'list' with no type-341936379#1125#142#3(4@91"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp-341936379#18446744073709551615#0#-0#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---4@92"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-3@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2@133"ISO C++ forbids declaration of 'list' with no type in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h-341936379#18446744073709551615#0#-0#-3@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^34#18446744073709551615#34#18446744073709551615#18446744073709551615#0#---2#-3@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^34#18446744073709551615#34#18446744073709551615#18446744073709551615#0#47"ISO C++ forbids declaration of '*' with no type--2@29"Expected ';' before '<' token-341936379#1267#121#3(4@91"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp-341936379#18446744073709551615#0#-0#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---4@92"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-3@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2@112"Expected ';' before '<' token in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h-341936379#18446744073709551615#0#-0#-3@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^34#18446744073709551615#34#18446744073709551615#18446744073709551615#0#---2#-3@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^34#18446744073709551615#34#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@37"'ofxOscReceiver' does not name a type-341936379#1388#129#3(4@91"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp-341936379#18446744073709551615#0#-0#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---4@92"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-3@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2@120"'ofxOscReceiver' does not name a type in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h-341936379#18446744073709551615#0#-0#-3@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^37#18446744073709551615#37#18446744073709551615#18446744073709551615#0#---2#-3@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^37#18446744073709551615#37#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@36"Expected class-name before '{' token-341936379#1612#118#2(4@91"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp-341936379#18446744073709551615#0#-0#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@110"Expected class-name before '{' token in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-3@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#---2#-3@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@34"'ofDragInfo' has not been declared-341936379#1730#117#2(4@91"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp-341936379#18446744073709551615#0#-0#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@108"'ofDragInfo' has not been declared in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-3@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^19#18446744073709551615#19#18446744073709551615#18446744073709551615#0#---2#-3@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^19#18446744073709551615#19#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@33"'ofMessage' has not been declared-341936379#1847#116#2(4@91"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp-341936379#18446744073709551615#0#-0#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@107"'ofMessage' has not been declared in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-3@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^20#18446744073709551615#20#18446744073709551615#18446744073709551615#0#---2#-3@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^20#18446744073709551615#20#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@48"'ofAppGlutWindow' was not declared in this scope-341936379#2060#129#-2#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^7#18446744073709551615#7#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@28"Expected `;' before 'window'-341936379#2189#109#-2#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^7#18446744073709551615#7#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@39"'window' was not declared in this scope-341936379#2298#120#-2#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@42"'OF_WINDOW' was not declared in this scope-341936379#2418#123#-2#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@46"'ofSetupOpenGL' was not declared in this scope-341936379#2541#127#-2#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@41"'ofRunApp' was not declared in this scope-341936379#2668#123#-2#-3@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--0#0#0#-19%DVTDocumentLocation5@87"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/main.cpp0000000000000000^1457"CompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 "-I/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap" "-I/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin/include" "-I/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386" "-I/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/DerivedSources" "-F/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin" "-F/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../libs/glut/lib/osx" -D__MACOSX_CORE__ -lpthread -include /var/folders/jn/jnkj5JtPF-Ca-odvXV5MS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cggezspcfyeijxcqkluvluxouqnb/Carbon.h -c "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/main.cpp" -o "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o"
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/ofxOscBundle.o "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../addons/ofxOsc/src/ofxOscBundle.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/ofxOscMessage.o "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../addons/ofxOsc/src/ofxOscMessage.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/ofxOscReceiver.o "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../addons/ofxOsc/src/ofxOscReceiver.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/ofxOscSender.o "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../addons/ofxOsc/src/ofxOscSender.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+s341936379.509206
+e341936379.667482
+r0
+xCompileC
+xbuild/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o
+x/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:1:
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:3:20: error: ofMain.h: No such file or directory
+oIn file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:4,
+o                 from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:1:
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:12:20: error: ofxOsc.h: No such file or directory
+oIn file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:4,
+o                 from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:1:
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:17: error: 'ofPoint' does not name a type
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:18: error: 'ofPoint' does not name a type
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:19: error: 'ofPoint' does not name a type
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:35: error: ISO C++ forbids declaration of 'list' with no type
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:35: error: expected ';' before '<' token
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:38: error: 'ofxOscReceiver' does not name a type
+oIn file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:1:
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:6: error: expected class-name before '{' token
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:20: error: 'ofDragInfo' has not been declared
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:21: error: 'ofMessage' has not been declared
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp: In member function 'void testApp::setup()':
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:5: error: 'ofSetFrameRate' was not declared in this scope
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:6: error: 'ofEnableAlphaBlending' was not declared in this scope
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp: In member function 'void testApp::draw()':
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:17: error: 'ofBackground' was not declared in this scope
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp: At global scope:
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:57: error: variable or field 'gotMessage' declared void
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:57: error: 'ofMessage' was not declared in this scope
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:62: error: variable or field 'dragEvent' declared void
+o/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:62: error: 'ofDragInfo' was not declared in this scope
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cppf06d82fb8861b441^f014befb8861b441^-3180"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:1:/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:3:20: error: ofMain.h: No such file or directoryIn file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:4,                 from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:1:/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:12:20: error: ofxOsc.h: No such file or directoryIn file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:4,                 from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:1:/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:17: error: 'ofPoint' does not name a type/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:18: error: 'ofPoint' does not name a type/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:19: error: 'ofPoint' does not name a type/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:35: error: ISO C++ forbids declaration of 'list' with no type/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:35: error: expected ';' before '<' token/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h:38: error: 'ofxOscReceiver' does not name a typeIn file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:1:/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:6: error: expected class-name before '{' token/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:20: error: 'ofDragInfo' has not been declared/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h:21: error: 'ofMessage' has not been declared/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp: In member function 'void testApp::setup()':/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:5: error: 'ofSetFrameRate' was not declared in this scope/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:6: error: 'ofEnableAlphaBlending' was not declared in this scope/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp: In member function 'void testApp::draw()':/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:17: error: 'ofBackground' was not declared in this scope/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp: At global scope:/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:57: error: variable or field 'gotMessage' declared void/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:57: error: 'ofMessage' was not declared in this scope/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:62: error: variable or field 'dragEvent' declared void/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp:62: error: 'ofDragInfo' was not declared in this scope19(21%IDEActivityLogMessage2@35"OfMain.h: No such file or directory-341936379#98#120#2(36%IDEActivityLogHeaderInclusionMessage3@94"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp-341936379#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@109"OfMain.h: No such file or directory in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#---2#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@35"OfxOsc.h: No such file or directory-341936379#412#130#3(3@94"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp-341936379#18446744073709551615#0#-0#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@92"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2@118"OfxOsc.h: No such file or directory in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h-341936379#18446744073709551615#0#-0#-4@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^11#18446744073709551615#11#18446744073709551615#18446744073709551615#0#---2#-4@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^11#18446744073709551615#11#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@30"'ofPoint' does not name a type-341936379#736#122#3(3@94"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp-341936379#18446744073709551615#0#-0#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@92"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2@113"'ofPoint' does not name a type in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h-341936379#18446744073709551615#0#-0#-4@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^16#18446744073709551615#16#18446744073709551615#18446744073709551615#0#---2#-4@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^16#18446744073709551615#16#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@30"'ofPoint' does not name a type-341936379#858#122#3(3@94"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp-341936379#18446744073709551615#0#-0#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@92"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2@113"'ofPoint' does not name a type in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h-341936379#18446744073709551615#0#-0#-4@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^17#18446744073709551615#17#18446744073709551615#18446744073709551615#0#---2#-4@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^17#18446744073709551615#17#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@30"'ofPoint' does not name a type-341936379#980#122#3(3@94"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp-341936379#18446744073709551615#0#-0#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@92"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2@113"'ofPoint' does not name a type in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h-341936379#18446744073709551615#0#-0#-4@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^18#18446744073709551615#18#18446744073709551615#18446744073709551615#0#---2#-4@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^18#18446744073709551615#18#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@50"ISO C++ forbids declaration of 'list' with no type-341936379#1102#142#3(3@94"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp-341936379#18446744073709551615#0#-0#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@92"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2@133"ISO C++ forbids declaration of 'list' with no type in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h-341936379#18446744073709551615#0#-0#-4@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^34#18446744073709551615#34#18446744073709551615#18446744073709551615#0#---2#-4@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^34#18446744073709551615#34#18446744073709551615#18446744073709551615#0#47"ISO C++ forbids declaration of '*' with no type--2@29"Expected ';' before '<' token-341936379#1244#121#3(3@94"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp-341936379#18446744073709551615#0#-0#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@92"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2@112"Expected ';' before '<' token in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h-341936379#18446744073709551615#0#-0#-4@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^34#18446744073709551615#34#18446744073709551615#18446744073709551615#0#---2#-4@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^34#18446744073709551615#34#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@37"'ofxOscReceiver' does not name a type-341936379#1365#129#3(3@94"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp-341936379#18446744073709551615#0#-0#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---3@92"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2@120"'ofxOscReceiver' does not name a type in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/TriangleReceiver.h-341936379#18446744073709551615#0#-0#-4@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^37#18446744073709551615#37#18446744073709551615#18446744073709551615#0#---2#-4@97"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/TriangleReceiver.h0000000000000000^37#18446744073709551615#37#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@36"Expected class-name before '{' token-341936379#1592#118#2(3@94"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp-341936379#18446744073709551615#0#-0#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@110"Expected class-name before '{' token in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#---2#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@34"'ofDragInfo' has not been declared-341936379#1710#117#2(3@94"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp-341936379#18446744073709551615#0#-0#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@108"'ofDragInfo' has not been declared in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^19#18446744073709551615#19#18446744073709551615#18446744073709551615#0#---2#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^19#18446744073709551615#19#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@33"'ofMessage' has not been declared-341936379#1827#116#2(3@94"In file included from /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp-341936379#18446744073709551615#0#-0#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@107"'ofMessage' has not been declared in /Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.h-341936379#18446744073709551615#0#-0#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^20#18446744073709551615#20#18446744073709551615#18446744073709551615#0#---2#-4@88"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.h0000000000000000^20#18446744073709551615#20#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@47"'ofSetFrameRate' was not declared in this scope-341936379#2061#131#-2#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@54"'ofEnableAlphaBlending' was not declared in this scope-341936379#2192#138#-2#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@45"'ofBackground' was not declared in this scope-341936379#2447#130#-2#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^16#18446744073709551615#16#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--32%IDEActivityLogContextInfoMessage5@16"At global scope:-341936379#2577#91#-0#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#19"LLVM GCC 4.2 Notice--2@44"Variable or field 'gotMessage' declared void-341936379#2668#129#-2#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^56#18446744073709551615#56#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@42"'ofMessage' was not declared in this scope-341936379#2797#127#-2#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^56#18446744073709551615#56#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@43"Variable or field 'dragEvent' declared void-341936379#2924#128#-2#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^61#18446744073709551615#61#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@43"'ofDragInfo' was not declared in this scope-341936379#3052#128#-2#-4@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^61#18446744073709551615#61#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--0#0#0#-19%DVTDocumentLocation6@90"file://localhost/Users/student/Dropbox/Born%20Digital/Dev/TriangleReceiver/src/testApp.cpp0000000000000000^1469"CompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o src/testApp.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 "-I/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap" "-I/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin/include" "-I/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386" "-I/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/DerivedSources" "-F/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin" "-F/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../libs/glut/lib/osx" -D__MACOSX_CORE__ -lpthread -include /var/folders/jn/jnkj5JtPF-Ca-odvXV5MS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cggezspcfyeijxcqkluvluxouqnb/Carbon.h -c "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/src/testApp.cpp" -o "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o"
+
+CLd "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin/emptyExampleDebug.app/Contents/MacOS/emptyExampleDebug" normal i386
+r0
+
+CPBXCp ../../../libs/glut/lib/osx/GLUT.framework bin/emptyExampleDebug.app/Contents/Frameworks/GLUT.framework
+r0
+
+CPhaseScriptExecution "Run Script" "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh"
+r0
+
+CProcessInfoPlistFile "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin/emptyExampleDebug.app/Contents/Info.plist" openFrameworks-Info.plist
+r0
+
+CProcessPCH++ /Users/student/Library/Developer/Xcode/DerivedData/emptyExample-dysdpkmexxbszkdcexohjsamhrdp/Index/PrecompiledHeaders/Carbon-bpsdonrxjkbkiheztlfsmuvzxbla_ast/Carbon.h.pth /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/jn/jnkj5JtPF-Ca-odvXV5MS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cggezspcfyeijxcqkluvluxouqnb/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42
+s341936376.833722
+e341936379.507026
+r1
+xProcessPCH++
+x/var/folders/jn/jnkj5JtPF-Ca-odvXV5MS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cggezspcfyeijxcqkluvluxouqnb/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oi686-apple-darwin10-llvm-gcc-4.2: -lpthread: linker input file unused because linking not done
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.hd996d5f88861b441^bccb81fb8861b441^-95"i686-apple-darwin10-llvm-gcc-4.2: -lpthread: linker input file unused because linking not done-0#0#0#-19%DVTDocumentLocation2@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^1434"ProcessPCH++ /var/folders/jn/jnkj5JtPF-Ca-odvXV5MS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cggezspcfyeijxcqkluvluxouqnb/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42    cd "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 "-I/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap" "-I/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin/include" "-I/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386" "-I/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/build/emptyExample.build/Debug/emptyExample.build/DerivedSources" "-F/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin" "-F/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/../../../libs/glut/lib/osx" -D__MACOSX_CORE__ -lpthread -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/jn/jnkj5JtPF-Ca-odvXV5MS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cggezspcfyeijxcqkluvluxouqnb/Carbon.h.gch
+
+CTouch "/Users/student/Dropbox/Born Digital/Dev/TriangleReceiver/bin/emptyExampleDebug.app"
+r0
+
